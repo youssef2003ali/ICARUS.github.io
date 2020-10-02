@@ -1,40 +1,33 @@
 @import url("https://fonts.googleapis.com/css?family=Poppins&display=swap");
 @import url('https://fonts.googleapis.com/css2?family=Rubik+Mono+One&display=swap');
 h1{
-    font-family: 'Rubik Mono One', sans-serif;
-    text-align: center;
-    margin-top: -50px;
-        font-size: 47px;
-        color: 	white;
-        display:inline-block;   
-        animation: example 2s ease-in-out infinite;
+  font-family: 'Rubik Mono One', sans-serif;
+      font-size: 75px;
+      color: 	white;
+      display:inline-block;   
+      animation: example 2s ease-in-out infinite;
+      padding-left: 50px;
+      margin-top: -2000px;
 }
 @keyframes example {
-    from{color:orangered}
-    to {color: black}
-    0% {
-        transform: translate(-75%,-90%);
-    }
-    50%{
-        text-shadow: 0 15px 40px rgba(0,0,0, .6);
-    }
-    100% {
-        transform: translate(50% , -10%);
-    }
-  }
+  from{color:white}
+  to {color: black}
+}
 
-.logo{
-    margin-left: 30px;
-    margin-top: 40px;
-    width: 220px;
+
+.logo{   
+   margin-left: -150px;
+  margin-top: 40px;
+  width: 220px;
 }
 #header{
-    height: 75vh;
-    background-image: url(images/img.jpeg);
-    max-height: 150px;
-    background-position: center;
-    background-size: cover;
-    background-attachment: fixed;
+  height: 30vh;
+  background-image: url(images/img.jpeg);
+  max-height: 30vh;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  text-align: center;
 }
 #sideNav{
     width: 250px;
@@ -42,7 +35,7 @@ h1{
     position: fixed;
     right: -250px;
     top: 0;
-    background-color: #12172b;
+    background-color: #202125;
     background-position: center;
     background-size: cover;
     z-index: 2;

@@ -13,28 +13,19 @@ body{
 }
 h1{
     font-family: 'Rubik Mono One', sans-serif;
-    text-align: center;
-    margin-top: -50px;
-        font-size: 47px;
+        font-size: 75px;
         color: 	white;
         display:inline-block;   
         animation: example 2s ease-in-out infinite;
+        padding-left: 50px;
+        margin-top: -2000px;
 }
 @keyframes example {
-    from{color:orangered}
+    from{color:white}
     to {color: black}
-    0% {
-        transform: translate(-75%,-90%);
-    }
-    50%{
-        text-shadow: 0 15px 40px rgba(0,0,0, .6);
-    }
-    100% {
-        transform: translate(50% , -10%);
-    }
   }
 .challenge-span{
-    margin-left:7%;
+  margin-left:7%;
     font-size: 50px;
     color: 	black;
     font-weight: bold;
@@ -42,39 +33,44 @@ h1{
 .container{
     margin-right: 100px;
     margin-left: 100px; 
-}
-.logo{
-    margin-left: -20px;
+max-height: 250px;}
+
+.logo{   
+     margin-left: -150px;
     margin-top: 40px;
     width: 220px;
 }
 .top2{
-   margin-top: -6%;
-   float: right;
-   margin-left: -5%;
-   text-align: left;
-   max-width: 40%;
+  width: 100%;
+  background-color: gray;
+   text-align: center;
    font-family: Arial, Helvetica, sans-serif;
-   font-size: 26.5px;
+   font-size: 28.5px;
    padding-right: 38px;
 }
+.header-p{
+  padding-top: 20px;
+  margin-left: 28%;
+  padding-bottom: 75px;
+  text-align: center;
+  max-width: 50%;
+}
 .top1{
-    padding-top: 20px;
+  padding-top: 20px;
     margin-left: 100px;
-    float: left;
 }
 .challenge-img{
-    margin-top: -2%;
     width: 45vw;
     height: 45vh;
 }
 #header{
-    height: 75vh;
+    height: 30vh;
     background-image: url(images/img.jpeg);
-    max-height: 150px;
+    max-height: 30vh;
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
+    text-align: center;
 }
 #sideNav{
     width: 250px;
@@ -162,11 +158,11 @@ li :hover{
    
   /* Handle */
   ::-webkit-scrollbar-thumb {
-    background: red; 
+    background: #12172b; 
     border-radius: 10px;
   }
   
   /* Handle on hover */
   ::-webkit-scrollbar-thumb:hover {
-    background: #b30000; 
+    background: #12172b; 
   }
