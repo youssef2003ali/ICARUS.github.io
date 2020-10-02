@@ -35,7 +35,7 @@ h1{
     position: fixed;
     right: -250px;
     top: 0;
-    background-color: #202125;
+    background-color: #12172b;
     background-position: center;
     background-size: cover;
     z-index: 2;
@@ -110,13 +110,13 @@ li :hover{
    
   /* Handle */
   ::-webkit-scrollbar-thumb {
-    background: red; 
+    background: #12172b; 
     border-radius: 10px;
   }
   
   /* Handle on hover */
   ::-webkit-scrollbar-thumb:hover {
-    background: #b30000; 
+    background: #12172b; 
   }
   * {
     padding: 0;
