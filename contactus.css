@@ -182,13 +182,22 @@ input[type=submit]:hover {
 }
 input[type=tel] {
   margin-right: 3%;
+  color: #fff;
+
 }
 input[type=email]{
 margin-right: -13%;
+color: #fff;
+
 }
 textarea{
   margin-right: -4%;
+  color: #fff;
 }
 h2{
   margin-top: -27px;
+}
+input[type=text]{
+  color: #fff;
+
 }
