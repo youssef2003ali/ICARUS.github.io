@@ -194,3 +194,44 @@ button:hover{
 #text-4{
   display: none;
 }
+.tools{
+  background-color: #e8ffff;
+}
+h4{
+  text-align: center;
+  font-size: 48px;
+  color: #12172b;
+  font-family: Impact, Charcoal, sans-serif	;
+}
+h5{
+  font-size: 30px;
+  color: #12172b;
+  font-family: Impact, Charcoal, sans-serif	
+}
+.Rake{
+  background-color: #b2ebf2;
+}
+
+.Sample-scales{
+  background-color: #e8ffff;
+}
+.title{
+  text-align: left;
+  font-size: 58px;
+  color: #12172b;
+  font-family: Impact, Charcoal, sans-serif;
+  margin-left: 15px;
+
+}
+.tools-span{
+  text-align: left;
+  font-size: 28px;
+  color: #12172b;
+  font-family: Impact, Charcoal, sans-serif	
+}
+.Handle{
+  background-color: #b2ebf2;
+}
+.RAD{
+  background-color: #b2ebf2;
+}
