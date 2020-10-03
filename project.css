@@ -273,3 +273,8 @@ h5{
   border: 8px solid #ff5722;
 
 }
+.sketchfab-embed-wrapper{
+  width: 45vw;
+  margin-left: 25%;
+  padding-top: 15px;
+}
