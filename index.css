@@ -25,10 +25,15 @@ h1{
     to {color: black}
   }
 .challenge-span{
-  margin-left:7%;
+  margin-left:8%;
     font-size: 50px;
     color: 	black;
     font-weight: bold;
+    background-color: #e8ffff;
+    width: 100%;
+    max-width: 100%;
+    padding-bottom: 25px;
+
 }
 .container{
     margin-right: 100px;
@@ -42,11 +47,14 @@ max-height: 250px;}
 }
 .top2{
   width: 100%;
-  background-color: gray;
-   text-align: center;
-   font-family: Arial, Helvetica, sans-serif;
-   font-size: 28.5px;
+  background-color: #b2ebf2;
+  margin-left: 9px;
+  margin-right: 9px;
+  text-align: center;
+  font-size: 30px;
+  font-family: "Comic Sans MS", cursive, sans-serif;
    padding-right: 38px;
+
 }
 .header-p{
   padding-top: 20px;
@@ -57,9 +65,11 @@ max-height: 250px;}
 }
 .top1{
   padding-top: 20px;
-    margin-left: 100px;
+    background-color: #e8ffff;
+  padding-bottom: 35px;
 }
 .challenge-img{
+  padding-top: 15px;
     width: 45vw;
     height: 45vh;
 }
