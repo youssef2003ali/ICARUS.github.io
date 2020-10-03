@@ -235,3 +235,41 @@ h5{
 .RAD{
   background-color: #b2ebf2;
 }
+.tongs-img{
+  float: right;
+  width: 20vw;
+  height: 54vh;
+  margin-left: 5px;
+  margin-right: 20px;
+  margin-top: 70px;
+  border: 8px solid #ff5722;
+}
+.rake-img{
+  float: right;
+  width: 20vw;
+  height: 54vh;
+  margin-left: 5px;
+  margin-right: 20px;
+  margin-top: 20px;
+  border: 8px solid #ff5722;
+}
+.sample-scales-img{
+  float: right;
+  width: 20vw;
+  height: 54vh;
+  margin-left: 5px;
+  margin-right: 20px;
+  margin-top: 20px;
+  border: 8px solid #ff5722;
+
+}
+.handle-img{
+  float: right;
+  width: 20vw;
+  height: 54vh;
+  margin-left: 5px;
+  margin-right: 20px;
+  margin-top: 20px;
+  border: 8px solid #ff5722;
+
+}
