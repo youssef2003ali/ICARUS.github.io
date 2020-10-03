@@ -278,3 +278,18 @@ h5{
   margin-left: 25%;
   padding-top: 15px;
 }
+.abstract-title{
+  text-align: center;
+  font-size: 78px;
+  color: #12172b;
+  font-family:  Curlz MT, Harrington;
+  margin-left: 15px;
+
+}
+.abstract{
+  background-color: #e8ffff;
+}
+.sketchfab-embed-wrapper2{
+  background-color: #b2ebf2;
+  padding-top: 25px;
+}
