@@ -296,3 +296,29 @@ h5{
 .iframe-2{
 height: 60vh ;
 }
+.grabber{
+  background-color: #e8ffff;
+}
+.scoop{
+  background-color: #b2ebf2;
+}
+.grabber-img{
+  float: right;
+  width: 20vw;
+  height: 34vh;
+  margin-left: 5px;
+  margin-right: 20px;
+  margin-top: 20px;
+  border: 8px solid #ff5722;
+
+}
+.scoop-img{
+  float: right;
+  width: 20vw;
+  height: 54vh;
+  margin-left: 5px;
+  margin-right: 20px;
+  margin-top: 20px;
+  border: 8px solid #ff5722;
+
+}
